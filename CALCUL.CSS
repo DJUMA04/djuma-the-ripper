@@ -1,0 +1,29 @@
+body{
+    background: skyblue;
+
+}
+box-sizing:border-box;
+-webkit-box-sizing:border-box;
+-moz-box-sizing:border-box;
+input{
+    width: 400px;
+    margin: auto;
+    height: auto;
+    background: black;
+    padding: 15;
+}
+input(text){
+    width: 100%;
+    padding: 10%;
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+input(type=button){
+    width:89px;
+    padding: 10px;
+    font-size 22px;
+    font-weight:bold;
+    border: redius 5px;
+}
